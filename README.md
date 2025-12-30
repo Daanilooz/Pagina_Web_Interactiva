@@ -1,20 +1,18 @@
-# Página web interactiva – Actividad 1.10
+Pagina web interactiva
 
-Esta es una página web sencilla creada para la asignatura, usando HTML, CSS y JavaScript.
+Esta pagina web se ha creado para una actividad de clase usando HTML, CSS y JavaScript.
 
-La web trata sobre el CO₂ en el cambio climático y contiene varias interacciones hechas con JavaScript.
+La web habla sobre el CO₂ en el cambio climático y contiene algunas interacciones hechas con JavaScript.
 
-## Enlace a la web
+Enlace a la web:
 https://TUUSUARIO.github.io/Pagina_Web_Interactiva/
 
-## Contenido de la web
-- Campo de texto que cambia un texto al escribir.
-- Imagen que cambia al hacer clic.
-- Objeto en movimiento controlado con botones.
-- Uso de fuentes externas de Google Fonts.
+La pagina incluye:
+- Un campo de texto que cambia un texto al escribir
+- Una imagen que cambia al hacer clic
+- Un objeto en movimiento
+- Uso de fuentes de Google Fonts
 
-## Inspiración
-La estética está inspirada en reportajes web como *El CO₂ en el cambio climático* de EL PAÍS.
+La estetica esta inspirada en reportajes web como el especial de EL PAIS sobre el CO₂.
 
-## Licencia
-El contenido no software se distribuye bajo licencia Creative Commons CC0 1.0 Universal.
+Licencia Creative Commons CC0 1.0 Universal.
