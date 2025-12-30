@@ -1,36 +1,20 @@
-# Pagina_Web_Interactiva
+# Página web interactiva – Actividad 1.10
 
-Proyecto escolar (Actividad 1.10) de **HTML / CSS / JavaScript**: una web interactiva con temática de **medio ambiente** centrada en el **CO₂ y el cambio climático**.
+Esta es una página web sencilla creada para la asignatura, usando HTML, CSS y JavaScript.
 
-**Autores:** Sebastian Pinto y Daniel Lois
+La web trata sobre el CO₂ en el cambio climático y contiene varias interacciones hechas con JavaScript.
 
-## Enlace a la web (GitHub Pages)
-https://daanilooz.github.io/Pagina_Web_Interactiva/
+## Enlace a la web
+https://TUUSUARIO.github.io/Pagina_Web_Interactiva/
 
-## Inspiración estética
-La página está inspirada en el estilo de reportaje del especial de **EL PAÍS** sobre “El CO₂ en el cambio climático” (estructura en secciones, titular principal destacado, bloques con datos e imágenes).
+## Contenido de la web
+- Campo de texto que cambia un texto al escribir.
+- Imagen que cambia al hacer clic.
+- Objeto en movimiento controlado con botones.
+- Uso de fuentes externas de Google Fonts.
 
-## Estructura del repositorio
-- `index.html`
-- `styles/style.css`
-- `scripts/main.js`
-- `images/`
-- `README.md`
-- `LICENSE`
-
-## Requisitos (funcionalidades JavaScript)
-1. **Intercambio de imágenes al hacer clic** sobre una imagen.
-2. **Campo de texto interactivo**: al escribir, se actualiza un texto dentro de la web.
-3. **Objeto en movimiento**: un elemento se mueve y rebota (animación controlada con botones).
-
-## Fuente llamativa
-- **Libre Baskerville (serif)**: usada en titulares para dar un estilo periodístico/Editorial.
-- **Inter (sans-serif)**: usada para el texto general por legibilidad.
-
-## Enlace externo
-La web incluye un enlace a un sitio externo que:
-- se abre en una nueva pestaña (`target="_blank"`)
-- tiene título de accesibilidad (`title`)
+## Inspiración
+La estética está inspirada en reportajes web como *El CO₂ en el cambio climático* de EL PAÍS.
 
 ## Licencia
-**Creative Commons Legal Code — CC0 1.0 Universal** (archivo `LICENSE`).
+El contenido no software se distribuye bajo licencia Creative Commons CC0 1.0 Universal.
