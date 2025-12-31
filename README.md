@@ -1,9 +1,13 @@
-# Pagina_Web_Interactiva
+Pagina Web Interactiva
 
-Esta es una página web sencilla creada como práctica para aprender HTML, CSS y JavaScript.
-El proyecto está pensado para practicar conceptos básicos y alojar una web usando GitHub Pages.
+Esta página web es una práctica para la asignatura y sirve para aprender lo básico de HTML, CSS y JavaScript. La web está alojada en GitHub Pages y se puede acceder desde el enlace de abajo.
 
-La página incluye algunos scripts en JavaScript para añadir interactividad, como el cambio de imágenes y texto al interactuar con el usuario.
+En la página se usan archivos separados para el HTML, el CSS y el JavaScript, y se han creado las carpetas images, styles y scripts. También se utilizan algunas funciones sencillas en JavaScript, como cambiar imágenes al hacer clic, cambiar texto introducido por el usuario y mover un elemento por la pantalla.
 
-## Ver la página web
+La estética de la página es sencilla y está basada en ejemplos de páginas actuales que se han visto en clase. Se ha añadido una fuente diferente a la predeterminada del navegador para mejorar un poco el aspecto visual.
+
+Las imágenes utilizadas están guardadas en la carpeta images y proceden de recursos con licencia Creative Commons.
+
+Enlace a la página web:
 https://TU_USUARIO.github.io/TU_REPOSITORIO
+
