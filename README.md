@@ -9,5 +9,5 @@ La estética de la página es sencilla y está basada en ejemplos de páginas ac
 Las imágenes utilizadas están guardadas en la carpeta images y proceden de recursos con licencia Creative Commons.
 
 Enlace a la página web:
-https://TU_USUARIO.github.io/TU_REPOSITORIO
+(https://daanilooz.github.io/Pagina_Web_Interactiva/)
 
