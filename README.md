@@ -1,4 +1,4 @@
-Pagina Web Interactiva
+Pagina Web Interactiva Daniel Lois y Sebastián Pinto.
 
 Esta página web es una práctica para la asignatura y sirve para aprender lo básico de HTML, CSS y JavaScript. La web está alojada en GitHub Pages y se puede acceder desde el enlace de abajo.
 
