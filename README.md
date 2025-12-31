@@ -1,18 +1,9 @@
-Pagina web interactiva
+# Pagina_Web_Interactiva
 
-Esta pagina web se ha creado para una actividad de clase usando HTML, CSS y JavaScript.
+Esta es una página web sencilla creada como práctica para aprender HTML, CSS y JavaScript.
+El proyecto está pensado para practicar conceptos básicos y alojar una web usando GitHub Pages.
 
-La web habla sobre el CO₂ en el cambio climático y contiene algunas interacciones hechas con JavaScript.
+La página incluye algunos scripts en JavaScript para añadir interactividad, como el cambio de imágenes y texto al interactuar con el usuario.
 
-Enlace a la web:
-https://TUUSUARIO.github.io/Pagina_Web_Interactiva/
-
-La pagina incluye:
-- Un campo de texto que cambia un texto al escribir
-- Una imagen que cambia al hacer clic
-- Un objeto en movimiento
-- Uso de fuentes de Google Fonts
-
-La estetica esta inspirada en reportajes web como el especial de EL PAIS sobre el CO₂.
-
-Licencia Creative Commons CC0 1.0 Universal.
+## Ver la página web
+https://TU_USUARIO.github.io/TU_REPOSITORIO
